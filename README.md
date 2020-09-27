@@ -1,2 +1,3 @@
 # messapp
-Flutter ile Mesajlaşma Uygulaması / Messaging Application with Flutter
+- (TR) Flutter ile Mesajlaşma Uygulaması
+- (EN) Messaging Application with Flutter
